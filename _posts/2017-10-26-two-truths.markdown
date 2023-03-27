@@ -32,6 +32,6 @@ Teams that seek to mindfully build a culture that relies on understanding one an
 
 We grow when we seek to understand why we think and react in the ways that we do, and when we make it a habit to understand others. This growth is what the CULTIVATE Conversations project hopes to spark.
 
-Acknowledgments to Miranda Mundt, who helped me remember the session’s conversion and to Mary Ann Leung and Keisha Moore for cultivating the conversation. 
+Acknowledgments to Miranda Mundt, who helped me remember the session’s conversations and to Mary Ann Leung and Keisha Moore for cultivating the conversation. 
 
 
