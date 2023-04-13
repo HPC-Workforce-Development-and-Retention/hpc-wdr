@@ -1,0 +1,6 @@
+[default.extend-words]
+# Add words to ignore here
+
+[files]
+# Add files or file extensions to exclude here
+extend-exclude = ["*.css", "*.scss"]
