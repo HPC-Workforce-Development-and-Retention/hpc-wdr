@@ -39,7 +39,7 @@ jobs:
         timeout: 10
 
         # Exclude these patterns from the checker
-        exclude_patterns:
+        exclude_patterns: http://localhost:4000
 
         # Exclude these files from the checker
         exclude_files: _config.yml,.github/workflows
