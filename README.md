@@ -2,22 +2,30 @@
 
 ## What is this?
 
-This is a repository that contains the files for the official HPC Workforce Development and Retention group website hosted at https://hpc-wdr.com.
+This is a repository that contains the files for the official HPC Workforce
+Development and Retention group website hosted at **TBD**.
 The site is built with [Jekyll](https://jekyllrb.com/) and hosted on GitHub. 
 
 ## How do I contribute?
 
 We encourage the community to contribute to the content of the website. However, content must be in scope as outlined on the 
-<a href="https://hpc-workforce-development-and-retention.github.io/hpc-wdr/site-overview/" target="_blank">Site Overview</a>, must follow the site <a href="https://hpc-workforce-development-and-retention.github.io/hpc-wdr/codeofconduct/" target="_blank">Code of Conduct</a>, and must be approved by the HPC-WDR Editorial Board. 
+<a href="https://hpc-workforce-development-and-retention.github.io/hpc-wdr/site-overview/" target="_blank">Site Overview</a>,
+must follow the site <a href="https://hpc-workforce-development-and-retention.github.io/hpc-wdr/codeofconduct/" target="_blank">Code of Conduct</a>,
+and must be approved by the HPC-WDR Editorial Board. 
 
 ## Contributing for Those Who Are Not Familiar with the Git Workflow
 
-If you are not familiar with the git workflow you may submit your content using the <a href="https://forms.gle/BNChXzpxkJjF4EFWA">HPC-WDR Google Form.</a> Someone from the HPC-WDR editorial board will be in contact with you soon. 
+If you are not familiar with the git workflow you may submit your content using
+the <a href="https://forms.gle/BNChXzpxkJjF4EFWA">HPC-WDR Google Form.</a> Someone
+from the HPC-WDR editorial board will be in contact with you soon. 
 
 ## Contributing for Those Who Are Familiar with the Git Workflow
 
 
-If you are familiar with the gitworkflow,  fork the repository, make your proposed changes, test locally (see below), and then create a pull request against `main`. For more details about opening pull requests and issues, see our [Contributing Guide](.github/CONTRIBUTING.md).
+If you are familiar with the gitworkflow,  fork the repository, make your
+proposed changes, test locally (see below), and then create a pull request
+against `main`. For more details about opening pull requests and issues, see
+our [Contributing Guide](.github/CONTRIBUTING.md).
 
 
 ### 1. How do I add a blog post?
@@ -27,7 +35,9 @@ folder, organized by year. Jekyll requires blog post files to be named according
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. If you use a future date, Jekyll will not post the page until that date.
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers,
+and `MARKUP` is the file extension representing the format used in the file. If
+you use a future date, Jekyll will not post the page until that date.
 
 You can find an event template under [templates](templates/event_template.md).
 
@@ -60,7 +70,8 @@ is only viewable on this page.
 
 You can add an event or webinar to the site by adding a markdown file in the [_events](_events)
 folder, organized by year. Do not use the full date (e.g. YYYY-MM-DD-<event-name>.md) in the file name,
-Jekyll will not post pages that it interprets to have a future date in the filename. You can find an event template under [templates](templates/event_template.md).
+Jekyll will not post pages that it interprets to have a future date in the filename.
+You can find an event template under [templates](templates/event_template.md).
 
 ```markdown
 ---
@@ -143,4 +154,5 @@ $ bundle exec jekyll serve
 ```
 
 and open your browser to <http://localhost:4000>.
-If you are having trouble try `rm -rf _site`, followed by `bundle update`, then `bundle exec jekyll serve`.
+If you are having trouble try `rm -rf _site`, followed by `bundle update`,
+then `bundle exec jekyll serve`.
