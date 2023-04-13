@@ -192,11 +192,11 @@ There are currently two automated tests:
    If there is a real failure, the URL will need to be fixed (or removed, as
    appropriate). If it is a temporary failure, the job can be re-run. If a
    particular URL or file should be ignored, this can be added to the
-   [configuration](https://github.com/HPC-Workforce-Development-and-Retention/hpc-wdr/tree/main/.github/workflows/linting.yaml) of the workflow.
+   [configuration](workflows/linting.yaml) of the workflow.
 2. Spell Checker: This test looks for common misspellings and will error if it
    detects one. The typo will need to be fixed or, if it is a false failure
    (e.g., names will sometimes cause failures), words to be ignored can be added to the
-   [configuration file](https://github.com/HPC-Workforce-Development-and-Retention/hpc-wdr/tree/main/.github/workflows/typos.toml).
+   [configuration file](workflows/typos.toml).
 
 [↑ Contents](#contents)
 
