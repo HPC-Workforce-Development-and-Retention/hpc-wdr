@@ -21,7 +21,7 @@ Those interested in applying are encouraged to participate in an informational f
 scheduled for Tuesday, September 10, 2024, 2:00-3:00 pm EDT. Please subscribe to our 
 [mailing list](https://bssw.io/pages/receive-our-email-digest) for teleconference details and other updates on the program.
 
-Further details can be found at [https://bssw.io/fellowship](https://bssw.io/fellowship) and in a recent blog post.
+Further details can be found at [https://bssw.io/fellowship](https://bssw.io/fellowship) and in a recent [blog post](https://urldefense.us/v2/url?u=https-3A__bssw.io_blog-5Fposts_applications-2Dopen-2Dfor-2Dthe-2D2025-2Dbssw-2Dfellowship-2Dprogram&d=DwMFaQ&c=v4IIwRuZAmwupIjowmMWUmLasxPEgYsgNI-O7C4ViYc&r=-ngtCUis22iiYAdjP8LEfTWrLNnaYf_ADw18q1UN1RY&m=Bkn4bl1rU39yd_4Zms1tPO43FZWQw0XJxDOw7x_IoFvmuBFT8pF9CeBcB0Ww_T-G&s=aNH1CrFSIjzDLKpc0Zy2qKGcMiCCgjLJaycp5rsehps&e=).
 
 Requirements: We encourage applicants at all career stages, ranging from students 
 through early-career, mid-career, and senior professionals, especially those from 
