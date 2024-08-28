@@ -5,7 +5,7 @@ location: Zoom # event location
 event_url: # optional
 event_date: "2024-01-26"
 category: "community " # webinar or community
-expires: 2025-12-01
+expires: 2024-07-01
 repeated: true
 ---
 
