@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project-Based Learning"
+title: "Project Based Learning"
 date: 2023-09-19 11:59:58 -0800
 author: Suzanne Parete-Koon
 categories: jekyll update
