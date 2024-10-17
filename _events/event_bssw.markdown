@@ -6,7 +6,7 @@ location: https://bssw.io/fellowship
 event_url: https://bssw.io/fellowship # optional
 event_date: "2024-09-30"
 category: "community " # webinar or community
-expires: 2025-12-01
+expires: 2024-09-01
 repeated: true
 ---
 The Better Scientific Software (BSSw) Fellowship Program recognizes and promotes leaders and 
