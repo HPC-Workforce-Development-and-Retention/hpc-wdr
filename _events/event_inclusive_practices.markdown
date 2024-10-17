@@ -14,7 +14,12 @@ This event is co-sponsored by the HPC-Workforce Action group, whose mission is t
 
 [Register Here](https://www.zoomgov.com/meeting/register/vJItce-orz0sHgN-Y11kCNvew7N4iyS5CFQ)
 
-Presenter
+**Presenter**
+
 Mark C Miller (Applications, Simulations and Quality Division, Lawrence Livermore National Lab)
-Presenter Bio
+
+
+**Presenter Bio**
+
+
 Mark C Miller has participated in the development of a number of scientific database and data modeling technologies, including Silo, ASCI-DMF, HDF5, ITAPS and most recently the MACSio scalable I/O proxy application. Mark has been the lead developer of Silo since the late 90’s, supporting scalable I/O requirements of LLNL HPC simulation codes, including ALE3D, Kull, Ares, LASNEX, Overlink and VisIt. Mark’s expertise includes data models and their impact on software interoperability, high-performance I/O, and software quality engineering for HPC libraries. Mark is passionate about the history of computing and the role of inclusion in the success of scientific computing projects.
